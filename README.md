@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-**A few stats :**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThimote&hide=html&theme=dark&layout=compa"/>
-<img src="https://github-readme-stats.vercel.app/api?username=MrThimote&theme=dark&show_icons=true"/>
-
 ### About me
 
  - 🌱 I'm currently learning about language theory and the game engine systems
@@ -14,6 +9,12 @@
    - [JDromadaire](https://github.com/EngDrom/JDromadaire), my custom programming language that I'm making with [Itai12](https://github.com/Itai12)
    - [EngDrom](https://github.com/EngDrom/), my custom game engine based on JDromadaire, which is a school project that [Itai12](https://github.com/Itai12) and I are also programming
  - ⚡ Also learning quantum physics and trying to release a paper about entanglement
+
+**Some stats :**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThimote&hide=html&theme=dark&layout=compa"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrThimote&theme=dark&show_icons=true"/>
+
 
 <!--
 **MrThimote/MrThimote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
